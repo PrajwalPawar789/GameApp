@@ -1,0 +1,126 @@
+{
+  "lan": ["cn", "en", "fr", "fa"],
+  "default": "cn",
+  "data": {
+    "title": {
+      "cn": "Tetris",
+      "en": "T E T R I S",
+      "fr": "T E T R I S",
+      "fa": "Home making"
+    },
+    "github": {
+      "cn": "GitHub",
+      "en": "GitHub",
+      "fr": "GitHub",
+      "fa": "GitHub"
+    },
+    "linkTitle": {
+      "cn": "View the source code",
+      "en": "View data source",
+      "fr": "View data source",
+      "fa": "View the source code"
+    },
+    "QRCode":{
+      "cn": "QR code",
+      "en": "QR code",
+      "fr": "QR code",
+      "fa": "QR code"
+    },
+    "titleCenter": {
+      "cn": "Tetris<br />TETRIS",
+      "en": "TETRIS",
+      "fr": "TETRIS",
+      "fa": "Home making"
+    },
+    "point": {
+      "cn": "score",
+      "en": "Point",
+      "fr": "Score",
+      "fa": "Score"
+    },
+    "highestScore": {
+      "cn": "highest score",
+      "en": "Max",
+      "fr": "Max",
+      "fa": "Maximum"
+    },
+    "lastRound": {
+      "cn": "Last Round",
+      "en": "Last Round",
+      "fr": "Last Round",
+      "fa": "Last Round"
+    },
+    "cleans": {
+      "cn": "Clear",
+      "en": "Cleans",
+      "fr": "Clear",
+      "fa": "Clear"
+    },
+    "level": {
+      "cn": "Level",
+      "en": "Level",
+      "fr": "Level",
+      "fa": "Level"
+    },
+    "startLine": {
+      "cn": "Start Line",
+      "en": "Start Line",
+      "fr": "Start Line",
+      "fa": "Start Line"
+    },
+    "next": {
+      "cn": "Next",
+      "en": "Next",
+      "fr": "Next",
+      "fa": "Next"
+    },
+    "pause": {
+      "cn": "Pause",
+      "en": "Pause",
+      "fr": "Pause",
+      "fa": "Pause"
+    },
+    "sound": {
+      "cn": "Sound",
+      "en": "Sound",
+      "fr": "Sound",
+      "fa": "Sound"
+    },
+    "reset": {
+      "cn": "Replay",
+      "en": "Reset",
+      "fr": "Replay",
+      "fa": "Reset"
+    },
+    "rotation": {
+      "cn": "Rotate",
+      "en": "Rotation",
+      "fr": "Rotate",
+      "fa": "Rotation"
+    },
+    "left": {
+      "cn": "Shift",
+      "en": "Left",
+      "fr": "Shift",
+      "fa": "Left"
+    },
+    "right": {
+      "cn": "Move",
+      "en": "Right",
+      "fr": "Move",
+      "fa": "Right"
+    },
+    "down": {
+      "cn": "move",
+      "en": "Down",
+      "fr": "move",
+      "fa": "Down"
+    },
+    "drop": {
+      "cn": "Drop",
+      "en": "Drop",
+      "fr": "Drop",
+      "fa": "Drop"
+    }
+  }
+}
